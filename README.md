@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Hey Sim.  You have a website now.
+
+Turn www.simward.net into your own personal portfolio, and use it as an opportunity to sharpen your technical skills.  I'll help you learn.  You'll like this stuff man, I promise.
+
+The rest of this info explains how to use github pages.
+
+## Welcome to GitHub pages
 
 You can use the [editor on GitHub](https://github.com/gtallen1187/simward.net/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
